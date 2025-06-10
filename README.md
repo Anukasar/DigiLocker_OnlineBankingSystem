@@ -56,5 +56,8 @@ A full-featured, secure **Online Banking Web Application** developed using Java 
 
 ---
 
+## 📽️ Project Demo
+
+[![Watch the Demo](https://drive.google.com/file/d/16S8pI2LYL_5iXGkuu3_IFrv3ZUGAifst/view?usp=drive_link)
 
 
